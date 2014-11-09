@@ -1,0 +1,27 @@
+{
+  "name": "is_rtf",
+  "version": "1.0.0",
+  "description": "Check if a Buffer/Uint8Array is a RTF file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veacks/is_rtf.git"
+  },
+  "keywords": [
+    "buffer",
+    "check",
+    "detect",
+    "rtf",
+    "type",
+    "unit8array"
+  ],
+  "author": "Valentin Dubois - Education Services Australia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veacks/is_rtf/issues"
+  },
+  "homepage": "https://github.com/veacks/is_rtf"
+}
