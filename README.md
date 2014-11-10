@@ -1,4 +1,4 @@
-# is-rtf [![Build Status](https://travis-ci.org/veacks/is_rtf.svg?branch=master)](https://travis-ci.org/veacks/is_rtf)
+# is-rtf [![Build Status](https://travis-ci.org/veacks/is-rtf.svg?branch=master)](https://travis-ci.org/veacks/is-rtf)
 
 > Check if a Buffer/Uint8Array is a RTF file
 
