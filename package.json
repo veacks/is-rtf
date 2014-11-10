@@ -1,5 +1,5 @@
 {
-  "name": "is_rtf",
+  "name": "is-rtf",
   "version": "1.0.0",
   "description": "Check if a Buffer/Uint8Array is a RTF file",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/veacks/is_rtf.git"
+    "url": "https://github.com/veacks/is-rtf.git"
   },
   "keywords": [
     "buffer",
@@ -21,7 +21,7 @@
   "author": "Valentin Dubois - Education Services Australia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/veacks/is_rtf/issues"
+    "url": "https://github.com/veacks/is-rtf/issues"
   },
-  "homepage": "https://github.com/veacks/is_rtf"
+  "homepage": "https://github.com/veacks/is-rtf"
 }
